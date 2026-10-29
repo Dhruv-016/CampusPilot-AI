@@ -17,7 +17,7 @@
 
 A comprehensive video walkthrough demonstrating the architecture, agent control flow, tool dispatching, BM25 retrieval, privacy redaction, and quantitative evaluation benchmarks is available at:
 
-- **Video Link**: `[PASTE_YOUR_YOUTUBE_OR_GOOGLE_DRIVE_LINK_HERE]` *(e.g., https://youtu.be/... or Google Drive link)*
+- **Video Link**: [Watch Explanatory Video Walkthrough (Google Drive)](https://drive.google.com/file/d/15LXqpbkyLgWY_YzhI1Dp-VQK6mGwyD2e/view?usp=sharing)
 - **Duration**: ~7 Minutes 32 Seconds
 - **Demonstrated Components**:
   1. Full Architecture & LangGraph State Machine
